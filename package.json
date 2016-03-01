@@ -1,0 +1,29 @@
+{
+  "name": "personal-js-utils",
+  "version": "0.0.1",
+  "description": "Little javascript util modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfcorreas/personal-js-utils.git"
+  },
+  "keywords": [
+    "utils",
+    "javascript",
+    "node"
+  ],
+  "author": "jfcorreas",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jfcorreas/personal-js-utils/issues"
+  },
+  "homepage": "https://github.com/jfcorreas/personal-js-utils#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}

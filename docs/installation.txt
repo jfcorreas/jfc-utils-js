@@ -1,0 +1,4 @@
+git clone https://github.com/jfcorreas/personal-js-utils.git
+npm init
+npm install --save-dev mocha
+npm install --save-dev chai
